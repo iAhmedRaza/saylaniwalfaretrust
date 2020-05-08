@@ -1,0 +1,184 @@
+
+
+.head{
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+.container{
+    padding: 0;
+}
+.iconn {
+    width: 15px;
+    display: inline-block;
+     margin-right: 15px;
+   
+}
+.iconn:hover{
+    cursor: pointer;
+}
+
+
+.head{
+    background-color: #316DC3;
+}
+.head span{
+    text-align: center;
+}
+
+.head button{
+   font-size: small;
+}
+.a li{
+    margin-right: 20px;
+}
+.picbox img{
+    max-height: 489px;
+}
+
+
+.about
+{
+    background-color: #f7f8fa;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.about .intro {
+    text-align: center;
+    color: #316DC3;
+    font-family: 'Merriweather', serif;
+}
+.about .intro span{
+    color:#427900 ;
+}
+.slogo{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 30px;
+}
+.line{
+    border-color:  #427900  ;
+    border-width: 1.5px;
+    width: 33px;
+  margin: 0;
+  margin-top: 40px;
+}
+.slogo img{
+    margin: 0 8px;
+    width: 40px;
+}
+.para{
+    margin: 0;
+    margin-top: 30px;
+    text-align: justify;
+}
+
+@media screen and (max-width:992px){
+    .para{
+        margin-right: 0;
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width:590px){
+    .para{
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+
+.f{
+    display: flex;
+    justify-content: center;
+}
+.crow{
+    text-align: center;
+    color: cornsilk;
+    font-family: 'Merriweather', serif;
+    background-color: rgb(0, 46, 222) !important;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.ccol{
+    margin-top:60px;
+    margin-bottom: 60px;
+    padding: 0 40px;
+}
+.ccol h5 {
+    font-size: small;
+    font-weight: bold;
+}
+.ccol h2{
+    font-size: 55px;
+    margin-bottom: 10px;
+}
+.box{
+  
+    display: inline-block ;
+    padding: 30px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+   background-color: #ffffff;
+   box-shadow: 5px 5px 5px #d3d3d3; 
+}
+.box h4{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-family: 'Merriweather', serif;
+    color: #316DC3;
+    font-weight: bolder;
+    font-size: large;
+}
+.cont {
+    margin-top: 40px;
+}
+.l{
+    padding: 15px;
+   margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #e3eaf1;
+}
+.l h4{
+    margin: 10px 0;
+    margin-left: 20px;
+    font-size: 18px !important;
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+}
+body{
+    padding: 0;
+    margin: 0;
+  
+}
+html{
+    padding: 0;
+    margin: 0;
+}
+.he{
+    font-family: Merriweather, serif; color: white; font-weight: 600; font-size: 18px; margin-bottom: 10px;
+}
+.foot{
+    background-color: #337ab7;
+}
+
+.dropdown-item:hover{
+    background-color: #316DC3;
+    color: #ffffff;
+}
+ 
+html,body{
+ margin: 0;
+ padding: 0;
+}
+
+.conat img{
+    width: 240px
+}
+section{
+    width: 100%;
+}
+.aa{
+    width: 100%;
+}
